@@ -190,7 +190,7 @@
         <div class="mb-3">
 
           <span class="badge bg-light text-black">React JS</span>
-          <span class="badge bg-light text-black">Tailwind CSS</span>
+          <span class="badge bg-light text-black">CSS</span>
           <span class="badge bg-light text-black">Axios</span>
           <span class="badge bg-light text-black">AdonisJS</span>
           <span class="badge bg-light text-black">Chatbase</span>
@@ -557,9 +557,9 @@
       </p>
 
       <div class="d-flex gap-4 mt-4">
-        <a href="#" title="GitHub"><i class="bi bi-github text-dark" style="font-size: 2.2rem;"></i></a>
-        <a href="#" title="LinkedIn"><i class="bi bi-linkedin text-dark" style="font-size: 2.2rem;"></i></a>
-        <a href="#" title="Instagram"><i class="bi bi-instagram text-dark" style="font-size: 2.2rem;"></i></a>
+        <a href="https://github.com/HajeraJewa" title="GitHub"><i class="bi bi-github text-dark" style="font-size: 2.2rem;"></i></a>
+        <a href="https://www.linkedin.com/in/hajera-jewa/" title="LinkedIn"><i class="bi bi-linkedin text-dark" style="font-size: 2.2rem;"></i></a>
+        <a href="https://www.instagram.com/hajera.s_13/" title="Instagram"><i class="bi bi-instagram text-dark" style="font-size: 2.2rem;"></i></a>
       </div>
       </div>
 
