@@ -106,7 +106,7 @@
 
       <!-- Action Buttons -->
       <div class="mt-3">
-        <a href="{{ asset('cv/CV HAJERA.pdf') }}"
+        <a href="https://drive.google.com/file/d/167MR8Hjc7dfll04zsKk6Zsqfm6GHaGbk/view?usp=sharing"
         class="btn fw-bold px-4 py-2 me-3 rounded-pill d-inline-flex align-items-center" style="
      background: linear-gradient(to left, #fff9c4, #ffd700);
      color: #000;
@@ -121,9 +121,6 @@
      ">
         <i class="bi bi-download me-2"></i>Download CV
         </a>
-
-
-
         <a href="#contact"
         class="btn btn-outline-warning fw-bold px-4 py-2 rounded-pill d-inline-flex align-items-center">
         <i class="bi bi-briefcase-fill me-2"></i>Hire Me
