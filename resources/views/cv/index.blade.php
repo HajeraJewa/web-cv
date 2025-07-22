@@ -415,7 +415,7 @@
         <div class="position-relative mb-3" style="background-color: #ffcc00; padding: 10px; border-radius: 10px;">
         <span class="badge position-absolute top-0 start-0 m-2 text-black fw-bold"
           style="background-color: #ffcc00; z-index: 1;">2024</span>
-        <a href="https://drive.google.com/file/d/15alwvLQFcwO6glM0xh53Iq3qkpmvSZlY/view?usp=sharing" target="_blank"
+        <a href="https://drive.google.com/file/d/1LU12t977Et3YfbxQuyJd84qYycP4udlK/view?usp=sharing" target="_blank"
           class="d-block w-100 h-100 position-relative text-decoration-none overflow-hidden rounded-3">
           <img src="{{ asset('img/proxo.png') }}" class="img-fluid rounded-3" alt="Certificate 1"
           style="transition: transform 0.3s ease;">
@@ -427,12 +427,11 @@
           </div>
         </a>
         </div>
-        <h6 class="fw-bold">Technology for a Sustainable Tomorrow</h6>
-        <p class="mb-0" style="font-size: 0.9rem;">PROXOCORIS & Computer Science ORIS </p>
-        <p class="mb-0" style="font-size: 0.85rem; color: #6c757d;">This certificate recognizes
-        active participation and demonstrated growth throughout PROXOCORIS 2024. Covered topics included technology
-        for a sustainable future, highlighting willingness to engage, learn, and challenge oneself in the field of
-        innovation and sustainability.</p>
+        <h6 class="fw-bold">Code Generation and Optimization Using IBM Granite</h6>
+        <p class="mb-0" style="font-size: 0.9rem;">IBM (International Business Machines Corporation) </p>
+        <p class="mb-0" style="font-size: 0.85rem; color: #6c757d;">This certification equips participants with the
+        ability to leverage generative AI to accelerate coding processes, optimize application performance,
+        and enhance software quality through code generation and optimization techniques.</p>
       </div>
       </div>
 
