@@ -414,7 +414,7 @@
       <div class="card h-100 p-3 border-0 rounded-4" style="background-color: white; color: #000;">
         <div class="position-relative mb-3" style="background-color: #ffcc00; padding: 10px; border-radius: 10px;">
         <span class="badge position-absolute top-0 start-0 m-2 text-black fw-bold"
-          style="background-color: #ffcc00; z-index: 1;">2024</span>
+          style="background-color: #ffcc00; z-index: 1;">2025</span>
         <a href="https://drive.google.com/file/d/1LU12t977Et3YfbxQuyJd84qYycP4udlK/view?usp=sharing" target="_blank"
           class="d-block w-100 h-100 position-relative text-decoration-none overflow-hidden rounded-3">
           <img src="{{ asset('img/ibm.png') }}" class="img-fluid rounded-3" alt="Certificate 1"
