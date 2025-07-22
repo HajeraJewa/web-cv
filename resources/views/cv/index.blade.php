@@ -417,7 +417,7 @@
           style="background-color: #ffcc00; z-index: 1;">2024</span>
         <a href="https://drive.google.com/file/d/1LU12t977Et3YfbxQuyJd84qYycP4udlK/view?usp=sharing" target="_blank"
           class="d-block w-100 h-100 position-relative text-decoration-none overflow-hidden rounded-3">
-          <img src="{{ asset('img/proxo.png') }}" class="img-fluid rounded-3" alt="Certificate 1"
+          <img src="{{ asset('img/ibm.png') }}" class="img-fluid rounded-3" alt="Certificate 1"
           style="transition: transform 0.3s ease;">
           <div
           class="card-img-overlay d-flex align-items-center justify-content-center opacity-0 transition-opacity"
